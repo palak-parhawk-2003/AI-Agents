@@ -1,0 +1,19 @@
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+
+# Ignore IntelliJ IDEA project files
+.idea/
+*.iml
+
+# Ignore environment variables
+.env
+
+# Default ignored files
+/shelf/
+/workspace.xml
